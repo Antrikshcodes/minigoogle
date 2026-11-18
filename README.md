@@ -1,6 +1,6 @@
 # MiniGoogle 1998
 
-A small classroom search engine that compares keyword frequency with link based ranking. The six page records and directed links are kept in `src/data/pages.ts`; the algorithms are independent of the React UI.
+A small classroom search engine that compares keyword frequency with link based ranking. The six page records and directed links are kept in `src/data/pages.ts`; the algorithms are independent of the React ui.
 
 Made by Antriksh.
 
